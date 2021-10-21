@@ -1,5 +1,5 @@
 Deploy to Streamlit
-- Create `.env` file and populate like this
+- Populate `./.streamlit/secrets.toml` like this
 
 ```
 clientId = "xxxxxxxxxxxx"
