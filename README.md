@@ -11,6 +11,7 @@ domain = "dev-xxxx.us.auth0.com"
 - when authorizing app under "Advanced Settings" (screenshot 1.png) set the below
 
 ```
+[auth]
 clientId = "xxxxxxxxxxxx"
 domain = "dev-xxxx.us.auth0.com"
 ``
